@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\svariam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\svariam\\.nuget\\packages"
+    ]
+  }
+}
